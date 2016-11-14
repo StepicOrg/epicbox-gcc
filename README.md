@@ -1,2 +1,2 @@
 # epicbox-gcc
-Dockerfile for automated builds of `stepik/epicbox-gcc` image.
+Epicbox image to run secure C/C++ sandboxes on Stepik.org.
